@@ -20,6 +20,10 @@ Basic list of things to learn when getting into WordPress.
 	- [ ] That file should be loaded in the footer. 
 	- [ ] Just console.log something to verify it is loaded, we're not learning JS here. 
 
+## Plugin Basics
+
+- [ ] Actions and filters. 
+
 ## Theme intermediate
 
 - [ ] Register a custom post type.
