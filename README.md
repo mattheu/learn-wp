@@ -22,7 +22,10 @@ Basic list of things to learn when getting into WordPress.
 
 ## Plugin Basics
 
+- [ ] Creating a plugin. 
+- [ ] MU Plugins. 
 - [ ] Actions and filters. 
+    - [ ] https://codex.wordpress.org/Plugin_API/Action_Reference
 
 ## Theme intermediate
 
@@ -32,6 +35,11 @@ Basic list of things to learn when getting into WordPress.
 - [ ] Register a nav menu and display it in your site header template.
 - [ ] Display a post thumbnail on the homepage at size 'thumbnail' and on the single post page using the 'large' size. This should be conditional on the post having a thumbnail set. 
 - [ ] Register a custom image size of 400x225 and use that on the homepage. 
+
+## Plugins Intermediate
+
+- [ ] Admin menu pages. 
+- [ ] Settings API.
 
 ## The intermediate stretch goals. 
 
