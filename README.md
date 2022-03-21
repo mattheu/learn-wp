@@ -56,6 +56,12 @@ Basic list of things to learn when getting into WordPress.
 - [ ] RepUse HM Webpack Helpers to compile a SCSS file. 
 - [ ] Use [Asset Loader](https://github.com/humanmade/asset-loader) to load your files. 
 - [ ] Set up webpack dev server so that it 
+- [ ] Elasticsearch/Elasticpress
+    - [ ] Have an understanding of this integration. How it works. Why it is necessary. 
+    - [ ] Running elasticpress sync CLI command.
+    - [ ] Know when a WP_Query is offloaded to Elasticsearch. 
+    - [ ] Add custom data to Elasticsearch
+    - [ ] Doing custom queries. 
 
 ## Front end concepts that are important for theme development at HM. 
 
