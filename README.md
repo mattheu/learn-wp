@@ -36,8 +36,10 @@ Basic list of things to learn when getting into WordPress.
 - [ ] Display a post thumbnail on the homepage at size 'thumbnail' and on the single post page using the 'large' size. This should be conditional on the post having a thumbnail set. 
 - [ ] Register a custom image size of 400x225 and use that on the homepage. 
 - [ ] Custom WP Query.
-    - [ ] Different supported query param.s 
-    - [ ] Pagination
+    - [ ] Explore the documentation. Understand using different arguments to retrieve different content. 
+    - [ ] In the footer of your site, output 5 posts from a single author. Output the title and a link to that post.
+    - [ ] Update the above query to include only posts in the category 'news' and with the tag 'breaking'.
+    - [ ] Pagination.
 
 ## Plugins Intermediate
 
