@@ -35,11 +35,15 @@ Basic list of things to learn when getting into WordPress.
 - [ ] Register a nav menu and display it in your site header template.
 - [ ] Display a post thumbnail on the homepage at size 'thumbnail' and on the single post page using the 'large' size. This should be conditional on the post having a thumbnail set. 
 - [ ] Register a custom image size of 400x225 and use that on the homepage. 
+- [ ] Custom WP Query.
+    - [ ] Different supported query param.s 
+    - [ ] Pagination
 
 ## Plugins Intermediate
 
 - [ ] Admin menu pages. 
 - [ ] Settings API.
+- [ ] Writing a custom WP CLI command
 
 ## The intermediate stretch goals. 
 
