@@ -55,7 +55,7 @@ Basic list of things to learn when getting into WordPress.
 ## Theme advanced. 
 
 - [ ] Use [HM Webpack Helpers](https://humanmade.github.io/webpack-helpers/) to build a JavaScript file in your theme so that you can write modern JS and JSX. Just production mode is fine to start. 
-- [ ] RepUse HM Webpack Helpers to compile a SCSS file. 
+- [ ] Use HM Webpack Helpers to compile a SCSS file. 
 - [ ] Use [Asset Loader](https://github.com/humanmade/asset-loader) to load your files. 
 - [ ] Set up webpack dev server so that it 
 - [ ] Elasticsearch/Elasticpress
