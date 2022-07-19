@@ -22,7 +22,7 @@ Basic list of things to learn when getting into WordPress.
 
 ## Plugin Basics
 
-- [ ] Create a plugin that you can activate from the plugins admin page. 
+- [ ] [Create a plugin that you can activate from the plugins admin page.](https://developer.wordpress.org/plugins/plugin-basics/)
 - [ ] Understand the difference between Plugins and MU Plugins. 
 - [ ] Actions and filters. 
     - [ ] https://codex.wordpress.org/Plugin_API/Action_Reference
@@ -60,8 +60,8 @@ Basic list of things to learn when getting into WordPress.
 ## Plugins Intermediate
 
 - [ ] Admin menu pages. 
-- [ ] Settings API.
-- [ ] Writing a custom WP CLI command
+- [ ] [Settings API.](https://developer.wordpress.org/plugins/settings/settings-api/)
+- [ ] [Writing a custom WP CLI command](https://make.wordpress.org/cli/handbook/guides/commands-cookbook/)
 
 ## Block editor Intermediate
 
