@@ -27,7 +27,34 @@ Basic list of things to learn when getting into WordPress.
 - [ ] Actions and filters. 
     - [ ] https://codex.wordpress.org/Plugin_API/Action_Reference
 
-## Theme intermediate
+## Block Editor Basics
+
+- [ ] [Learn about using the block editor to create media rich posts and pages.](https://wordpress.org/support/article/wordpress-editor/). You should cover the following:
+    - [ ] Common blocks and media blocks. Including changing the block settings and styles.  
+    - [ ] Layout blocks e.g. column blocks
+    - [ ] Using block patterns
+    - [ ] Reusable blocks
+- [ ] [Using Theme.json to configure the editor](https://developer.wordpress.org/block-editor/reference-guides/theme-json-reference/)
+- [ ] Create a custom block following [the tutorial on WordPress Developer Handbook](https://developer.wordpress.org/block-editor/getting-started/create-block/). You should cover the following: 
+    - [ ] Registering a block
+    - [ ] `block.json`
+    - [ ] Block Stylesheets (and editor styles)
+    - [ ] Block attributes, using TextControl to edit them.
+- [ ] Custom block stretch goals
+    - [ ] Use pre-built components to create a better User interface for managing your block attributes. 
+        - [ ] Different input types e.g. Date picker
+        - [ ] Sidebar/InspectorControls
+	- [ ] Rich Text
+- [ ] [Create a block editor plugin with a sidebar.](https://developer.wordpress.org/block-editor/how-to-guides/plugin-sidebar-0/) 
+- [ ] [Use API Fetch to retrieve data from the WP REST API.](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-api-fetch/)
+- [ ] Hooks/Filters & Slot Fills to modify editor functionality.
+- [ ] Using the wp data store
+    - [ ] [Get current value of post meta.](https://developer.wordpress.org/block-editor/reference-guides/data/data-core-editor/#geteditedpostattribute)
+    - [ ] Update the value of post meta. 
+    - [ ] [Fetch a post.](https://developer.wordpress.org/block-editor/reference-guides/data/data-core/)
+    - [ ] [Register a custom data store.](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-data/#registering-a-store)
+
+## Theme Intermediate
 
 - [ ] Register a custom post type.
 - [ ] Register a custom taxonomy for that post type.
@@ -64,6 +91,7 @@ Basic list of things to learn when getting into WordPress.
     - [ ] Know when a WP_Query is offloaded to Elasticsearch. 
     - [ ] Add custom data to Elasticsearch
     - [ ] Doing custom queries. 
+
 
 ## Front end concepts that are important for theme development at HM. 
 
