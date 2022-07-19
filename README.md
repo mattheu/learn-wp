@@ -53,6 +53,9 @@ Basic list of things to learn when getting into WordPress.
     - [ ] In the footer of your site, output 5 posts from a single author. Output the title and a link to that post.
     - [ ] Update the above query to include only posts in the category 'news' and with the tag 'breaking'.
     - [ ] Pagination.
+- [ ] Add comments to template for single posts. Just copy/paste at this point is fine, don't dive in too deeply but try to get an understanding of the functionality and what is possible. 
+- [ ] Child themes. Create another new theme, that is a child theme of this one and use it to modify some behaviour.
+
 
 ## Plugins Intermediate
 
@@ -74,11 +77,6 @@ Basic list of things to learn when getting into WordPress.
 	- [ ] Rich Text
 - [ ] [Create a block editor plugin with a sidebar.](https://developer.wordpress.org/block-editor/how-to-guides/plugin-sidebar-0/) 
 - [ ] [Use API Fetch to retrieve data from the WP REST API.](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-api-fetch/)
-
-## The intermediate stretch goals. 
-
-- [ ] Add comments to template for single posts. Just copy/paste at this point is fine, don't dive too deeply. 
-- [ ] Create another new theme, that is a child theme of this one. 
 
 ## Theme advanced. 
 
