@@ -22,10 +22,14 @@ Basic list of things to learn when getting into WordPress.
 
 ## Plugin Basics
 
-- [ ] Creating a plugin. 
-- [ ] MU Plugins. 
+- [ ] Create a plugin that you can activate from the plugins admin page. 
+- [ ] Understand the difference between Plugins and MU Plugins. 
 - [ ] Actions and filters. 
     - [ ] https://codex.wordpress.org/Plugin_API/Action_Reference
+    - [ ] Use a filter to modify the post content and insert some text at the end of each post. 
+    - [ ] Use an action to output some HTML in the head section of the page.  
+- [ ] Conditional tags. e.g. is_home 
+    - [ ] Update the filter above to use conditional tags to only modify the content for posts of type 'post' when on the single post page. 
 
 ## Block Editor Basics
 
